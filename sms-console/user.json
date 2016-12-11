@@ -1,0 +1,67 @@
+{
+	"users" : [
+		{
+			"id" : "1",
+			"name" : "Badhan",
+			"message" : "বনানী ",
+			"phone" : "01675255099",
+			"places" : ["Mirpur", "Bashundhara", "Banani", "JnU"]
+		},
+
+		{
+			"id" : "2",
+			"name" : "Tayef",
+			"message" : "Bashundhara-Banani",
+			"phone" : "016XXXXXXXX",
+			"places" : ["Mirpur", "NSU", "Banani", "Uttara"]
+		},
+
+		{
+			"id" : "3",
+			"name" : "Rana",
+			"message" : "Savar-Banani",
+			"phone" : "01687267730",
+			"places" : ["Mirpur", "Gulshan", "Uttara", "Savar"]
+		},
+
+		{
+			"id" : "4",
+			"name" : "Ledu",
+			"message" : "Mirpur2-Mirpur-6",
+			"phone" : "016XXXXXXXX",
+			"places" : ["Mirpur", "GUB"]
+		}
+	],
+
+	"drivers" : [
+		{
+			"id" : "1",
+			"name" : "Anim",
+			"phone" : "01708549047"
+		},
+
+		{
+			"id" : "2",
+			"name" : "Shohel",
+			"phone" : "01708549052"
+		},
+
+		{
+			"id" : "3",
+			"name" : "Shamim",
+			"phone" : "01708549076"
+		},
+
+		{
+			"id" : "4",
+			"name" : "Polash",
+			"phone" : "01929808019"
+		},
+
+		{
+			"id" : "5",
+			"name" : "Mizan",
+			"phone" : "01708549073"
+		}
+	]
+}
